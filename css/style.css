@@ -36,3 +36,7 @@ main > .jumbo {
     width: 100px;
     border: 2px solid green;
 }
+
+[alt=playstation_plus_logo]{
+    width: 50%;
+}
