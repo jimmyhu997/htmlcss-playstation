@@ -12,3 +12,9 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+body {
+    max-width: 1800px;
+    margin: auto;
+    background-color: rgb(5, 3, 31);
+}
