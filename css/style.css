@@ -1,8 +1,12 @@
-.box{
-    height: 100px;
-    background-color: aqua;
-    width: 100%;
-    border: 2px solid green;
+body {
+    max-width: 1800px;
+    margin: auto;
+    background-color: orange;
+}
+
+/* logo sony */
+.top_logo{
+    width: 180px;
 }
 
 header > .jumbo {
@@ -13,12 +17,6 @@ header > .jumbo {
     background-size: cover;
 }
 
-body {
-    max-width: 1800px;
-    margin: auto;
-    background-color: orange;
-}
-
 main > .jumbo {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     min-height: 675px;
@@ -27,16 +25,21 @@ main > .jumbo {
     background-size: cover;
 }
 
+.p_radius {
+    border-radius: 1rem;
+}
+
 
 /* debug */
 
-.boxheader {
-    height: 100px;
-    background-color: aqua;
-    width: 100px;
-    border: 2px solid green;
-}
 
 img[alt*=playstation]{
     width: 50%;
+}
+
+.box{
+    height: 100px;
+    background-color: aqua;
+    width: 100%;
+    border: 2px solid green;
 }
