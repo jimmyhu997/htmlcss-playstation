@@ -33,9 +33,6 @@ main > .jumbo {
 /* debug */
 
 
-img[alt*=playstation]{
-    width: 50%;
-}
 
 .box{
     height: 100px;
