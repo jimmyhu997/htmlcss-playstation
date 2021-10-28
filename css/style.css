@@ -1,7 +1,6 @@
 body {
     max-width: 1800px;
     margin: auto;
-    background-color: orange;
 }
 
 /* logo sony */
@@ -32,6 +31,29 @@ main > .jumbo {
 .max_social {
     max-width: 700px;
 }
+
+.footer_logo {
+    width: 120px;
+}
+
+[alt=language_globe] {
+    width: 15px;
+    height: auto;
+}
+
+[alt=footer_sie_logo] {
+    width: 200px;
+}
+
+footer ul{
+    list-style: none;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
 
 /* debug */
 
